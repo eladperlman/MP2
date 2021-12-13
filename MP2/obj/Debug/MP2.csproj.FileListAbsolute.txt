@@ -1,0 +1,7 @@
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\MP2\MP2\bin\Debug\MP2.exe.config
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\MP2\MP2\bin\Debug\MP2.exe
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\MP2\MP2\bin\Debug\MP2.pdb
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\MP2\MP2\obj\Debug\MP2.csprojAssemblyReference.cache
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\MP2\MP2\obj\Debug\MP2.csproj.CoreCompileInputs.cache
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\MP2\MP2\obj\Debug\MP2.exe
+C:\Users\ep321\OneDrive\Documents\ICS4\Assigments\MP2\MP2\obj\Debug\MP2.pdb
